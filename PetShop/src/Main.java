@@ -42,6 +42,8 @@ public class Main{
         System.out.println("PETSHOP");
         System.out.println("- Animais cadastrados -");
         System.out.println(petShop);
+
+        sc.close();
     }
 
     public static void cleanScreen(){
@@ -52,7 +54,7 @@ public class Main{
 
     public static void cleanScreen(int lines){
         for (int i = 0; i<lines; i++){
-
+            System.out.println();
         }
     }
 }
