@@ -1,0 +1,15 @@
+[ {
+  "id" : 1,
+  "product" : "Pierry",
+  "category" : "Eletronicos",
+  "unitValue" : 10.0,
+  "quantity" : 2,
+  "totalValue" : 20.0
+}, {
+  "id" : 2,
+  "product" : "Murilão",
+  "category" : "bosta",
+  "unitValue" : 30.0,
+  "quantity" : 5,
+  "totalValue" : 150.0
+} ]
